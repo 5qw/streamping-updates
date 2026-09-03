@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "canales-en-vivo-prime@local.ext": {
+      "updates": [
+        {
+          "version": "1.2.2",
+          "update_link": "https://github.com/5qw/streamping-updates/releases/download/v1.2.2/streamping-1.2.2.xpi"
+        }
+      ]
+    }
+  }
+}
